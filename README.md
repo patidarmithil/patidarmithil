@@ -1,4 +1,4 @@
-# Mithil Patidar
+# Hi 👋, I'm Mithil Patidar
 
 ### 👨‍🎓 About Me
 
@@ -28,30 +28,34 @@ Computer Science student with a strong interest in finance and data science. Foc
 
 #### Programming Languages
 <p align="left">
-  <img src="https://skill-icons.gifhub.dev/icons?i=cpp,c,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
 </p>
 <p>C++, C, Java, Python, SQL, JavaScript (Basics)</p>
 
 #### Libraries / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,pytorch" />
+</p>
 <p>NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Streamlit, Prophet</p>
 
 #### Backend & Databases
 <p align="left">
-  <img src="https://skill-icons.gifhub.dev/icons?i=fastapi,mysql" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
 </p>
 <p>FastAPI, MySQL</p>
 
 #### Developer Tools
 <p align="left">
-  <img src="https://skill-icons.gifhub.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kaggle" />
 </p>
 <p>Git, GitHub, VS Code, Google Colab, Kaggle, Linux</p>
 
 #### Platforms
 <p align="left">
-  <img src="https://skill-icons.gifhub.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 <p>Vercel</p>
+
 ---
 
 ### Connect With Me
