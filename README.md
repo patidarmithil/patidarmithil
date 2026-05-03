@@ -4,7 +4,7 @@
 
 🎓 B.Tech in Computer Science Engineering — IIIT Sri City
 
-🏫 Bengaluru, India 
+🏫 Indore, India 
 
 Computer Science student with a strong interest in finance and data science. Focused on building systems that combine technology with financial applications. Experienced in time-series modeling and federated learning.
 
@@ -12,12 +12,14 @@ Computer Science student with a strong interest in finance and data science. Foc
 
 ### Featured Projects
 
-#### [Mutual Fund Analysis](https://github.com/patidarmithil/Funds-analysis)
+#### 📈 [Mutual Fund Analysis](https://github.com/patidarmithil/Funds-analysis)
+
 * Built a desktop application to analyze and forecast mutual fund NAVs using time-series modeling.
 * Utilized Prophet, Pandas, and Matplotlib for predictions and data processing.
 * Implemented risk metrics (VaR, CVaR) and simulation-based projections with interactive Plotly visualizations.
 
-#### [FedPCL - Federated Personalised Contrastive Learning](https://github.com/patidarmithil/FedPCl_recommendation)
+#### 🤖 [FedPCL - Federated Personalised Contrastive Learning](https://github.com/patidarmithil/FedPCl_recommendation)
+
 * Implemented the FedPCL paper (IEEE TCSS, 2025) using the FilmTrust dataset.
 * Combined LightGCN-based structural contrastive learning on clients with K-means clustering on the server.
 * Designed a 5-stage pipeline: centralized baseline, FedAvg, cluster-personalized models, structural contrastive loss, and Local Differential Privacy.
@@ -30,29 +32,25 @@ Computer Science student with a strong interest in finance and data science. Foc
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
 </p>
-<p>C++, C, Java, Python, SQL, JavaScript (Basics)</p>
 
 #### Libraries / Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,pytorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
 </p>
-<p>NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Streamlit, Prophet</p>
 
 #### Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
 </p>
-<p>FastAPI, MySQL</p>
 
 #### Developer Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kaggle" />
 </p>
-<p>Git, GitHub, VS Code, Google Colab, Kaggle, Linux</p>
 
 #### Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 <p>Vercel</p>
 
